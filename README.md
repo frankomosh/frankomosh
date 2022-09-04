@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frankline Omondi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Ruby..
 - 💞️ I’m looking to collaborate on Web Applications, IOT...
 - 📫 How to reach me frankomosh197@gmail.com
 
