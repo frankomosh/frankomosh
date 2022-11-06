@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Software Engineer with interest in Front-end and Back-end web applications.
+Interest in Front-end and Back-end web applications.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [frankomosh197@gmail.com](mailto:frankomosh197@gmail.com)
