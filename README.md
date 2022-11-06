@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frankline Omondi
-- 👀 I’m interested in Coding
+- 👀 I’m a Front End Developer
 - 🌱 I’m currently learning TypeScript, Ruby..
 - 💞️ I’m looking to collaborate on Web Applications, IOT...
 - 📫 How to reach me frankomosh197@gmail.com
