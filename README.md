@@ -8,7 +8,7 @@ Generally enthusiastic about technology. I have a deep interest in Front-end and
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [frankomosh197@gmail.com](mailto:frankomosh197@gmail.com)
-* 🧠  I'm learning Ruby, TypeScript
+* 🧠  I'm learning Ruby, TypeScript, ML, AI
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/frankomosh" target="_blank" rel="noreferrer"><img
