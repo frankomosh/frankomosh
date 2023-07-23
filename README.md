@@ -13,7 +13,7 @@ Generally enthusiastic about technology. I have a deep interest in Front-end and
  
 <a href="https://www.github.com/frankomosh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/frankomosh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![](https://komarev.com/ghpvc/?username=frankomosh)
+
  
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 ### Skills
