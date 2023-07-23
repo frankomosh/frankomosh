@@ -10,14 +10,12 @@ Generally enthusiastic about technology. I have a deep interest in Front-end and
 * ✉️  You can contact me at [frankomosh197@gmail.com](mailto:frankomosh197@gmail.com)
 * 🧠  I'm learning Ruby, TypeScript, ML, AI
 * 🤝  I'm open to collaborating on Projects
- ![](https://komarev.com/ghpvc/?username=frankomosh)
- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
- ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+ 
 <a href="https://www.github.com/frankomosh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/frankomosh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+![](https://komarev.com/ghpvc/?username=frankomosh)
+ 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 ### Skills
 
 
