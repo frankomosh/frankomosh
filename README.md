@@ -4,7 +4,7 @@ Frankline Omondi
 
 -----------------
 
-Generally enthusiastic about technology. I have a deep interest in Front-end and Back-end web applications.
+Generally enthusiastic about technology. I have a deep interest in Blockend, and Front-end applications.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [frankomosh197@gmail.com](mailto:frankomosh197@gmail.com)
