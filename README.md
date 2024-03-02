@@ -1,14 +1,9 @@
 Frankline Omondi
-
-
-
 -----------------
+Blockend Researcher
 
-Generally enthusiastic about technology. I have a deep interest in Blockend, and Front-end applications.
-
-* 🌍  Based in Nairobi
 * ✉️  You can contact me at [frankomosh197@gmail.com](mailto:frankomosh197@gmail.com)
-* 🧠  I'm learning Cairo, Rust, Solidity, ML, AI
+* 🧠  Cairo, Rust, Solidity, ML, AI
 * 🤝  I'm open to collaborating on Projects
  
 <a href="https://www.github.com/frankomosh" target="_blank" rel="noreferrer"><img
