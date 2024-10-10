@@ -2,7 +2,6 @@ Frankline Omondi
 -----------------
 Blockend Researcher
 
-* ✉️  You can contact me at [frankomosh197@gmail.com](mailto:frankomosh197@gmail.com)
 * 🧠  Cairo, Rust, Solidity, ML, AI
 * 🤝  I'm open to collaborating on Projects
  
